@@ -33,4 +33,10 @@ This project implements a real-time Rock-Paper-Scissors game using a webcam, Ope
 Install the required libraries using pip:  
 
 ```bash  
-pip install opencv-python mediapipe  
+pip install opencv-python mediapipe```
+
+---
+
+## demo
+![Gameplay Video](https://github.com/yourusername/yourrepo/blob/main/Rock-Paper-Scissors/output/output.mp4)
+
