@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game with Hand Gesture Recognition  
 
-This project implements a real-time Rock-Paper-Scissors game using a webcam, OpenCV, and MediaPipe. The game recognizes hand gestures to detect the player's move and plays against the computer.
+This project implements a real-time Rock-Paper-Scissors game using a webcam, OpenCV, and MediaPipe. The game recognizes hand gestures to detect the player's move and plays against the computer. [demo](https://github.com/Ni2thin/GestuRPS/blob/main/Rock-Paper-Scissors/output/output.mp4)
 
 ---
 
@@ -33,10 +33,10 @@ This project implements a real-time Rock-Paper-Scissors game using a webcam, Ope
 Install the required libraries using pip:  
 
 ```bash  
-pip install opencv-python mediapipe```
+pip install opencv-python mediapipe
+```
+[Requirements.txt](Rock-Paper-Scissors/requirements.txt)
 
 ---
 
-## demo
-![Gameplay Video](https://github.com/yourusername/yourrepo/blob/main/Rock-Paper-Scissors/output/output.mp4)
 
